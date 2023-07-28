@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Jul 28 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@samgo94](https://github.com/samgo94))
+
+#### Authors: 1
+
+- [@samgo94](https://github.com/samgo94)
+
+---
+
 # v0.0.1 (Fri Jul 28 2023)
 
 :tada: This release contains work from a new contributor! :tada:
